@@ -1,6 +1,6 @@
-## PARKINSONS-DISEASE-PREDICTION
+# PARKINSONS-DISEASE-PREDICTION
 
-# Abstract: Oxford Parkinson's Disease Detection Dataset
+## Abstract: Oxford Parkinson's Disease Detection Dataset
 
 -----------------------------------------------------	
 
@@ -15,7 +15,7 @@ Missing Values? N/A
 
 -----------------------------------------------------	
 
-# Source:
+## Source:
 
 The dataset was created by Max Little of the University of Oxford, in 
 collaboration with the National Centre for Voice and Speech, Denver, 
@@ -24,7 +24,7 @@ feature extraction methods for general voice disorders.
 
 -----------------------------------------------------
 
-# Data Set Information:
+## Data Set Information:
 
 This dataset is composed of a range of biomedical voice measurements from 
 31 people, 23 with Parkinson's disease (PD). Each column in the table is a 
@@ -47,7 +47,7 @@ IEEE Transactions on Biomedical Engineering (to appear).
 
 -----------------------------------------------------
 
-# Attribute Information:
+## Attribute Information:
 
 Matrix column entries (attributes):
 name - ASCII subject name and recording number
